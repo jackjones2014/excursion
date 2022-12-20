@@ -13,11 +13,18 @@ a {
 .announce h1 {
     font-size: 50px;
     padding: 10px;
+    line-height: 1.2em;
+}
+.content h1 {
+    line-height: 2em;
 }
 .image-container img {
     width: 100%;
-    margin: 10px;
+    margin: 2em;
 }
 .glyph {
     margin: 30px;
+}
+footer {
+    text-align: right;
 }
